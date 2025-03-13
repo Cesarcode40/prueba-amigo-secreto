@@ -37,9 +37,11 @@ app.js
 
 
 
-## 📸 Vista Previa
-[
-](https://cesarcode40.github.io/prueba-amigo-secreto/)
+# Proyecto de Amigo Secreto
+
+Este es mi proyecto de Amigo Secreto. Puedes verlo en el siguiente enlace:
+
+[Ver la página de Amigo Secreto](https://cesarcode40.github.io/prueba-amigo-secreto/)
 
 
 
